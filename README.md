@@ -9,4 +9,4 @@ gence. In the following project we will describe the imple-
 mentation and training of the convolutional neural Network
 UNet. Starting from high-quality data examples we will try
 to build an autonomous summit recognition algorithm and
-we will explore qualitatively its performance. More details in Real_Report_vision.pdf
+we will explore qualitatively its performance. More details in Real_report_vision.pdf
